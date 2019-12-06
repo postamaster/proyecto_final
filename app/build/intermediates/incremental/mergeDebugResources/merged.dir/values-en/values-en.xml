@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Acceder">Login</string>
+    <string name="Contraseña">password</string>
+    <string name="Ingresa_correo">Enter your e-mail</string>
+    <string name="Registrar">Check-in</string>
+    <string name="Regresar">back</string>
+    <string name="app_name">RECYCLER_WASTER</string>
+    <string name="iniciar">Enter</string>
+    <string name="olvidar">¿did you forget your password?</string>
+</resources>

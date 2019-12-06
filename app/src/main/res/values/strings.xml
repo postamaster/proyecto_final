@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RECYCLER_WASTER</string>
+    <string name="iniciar">Iniciar Sesion</string>
+    <string name="Registrar">Registar</string>
+    <string name="Ingresa_correo">Ingresa Tu correo electronico</string>
+    <string name="Contraseña">Ingresa tu contraseña</string>
+    <string name="Regresar">Regresar</string>
+    <string name="Acceder">Acceder</string>
+    <string name="olvidar">¿Olvidaste tu contraseña?</string>
+</resources>
